@@ -23,7 +23,7 @@ class ViewController: UIViewController {
     
     //MARK: Actions
     @IBAction func buttonClicked(_ sender: UIButton) {
-        print("This is a Git tutorial")
+        print("You finished")
     }
 
 }
